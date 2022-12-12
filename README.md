@@ -12,7 +12,7 @@ This Hashtopolis agent is only compatible with Hashtopolis versions 0.5.0 and hi
 You need python3 installed on your agent system. 
 Following python packages are required:
 
-* requests
+* request
 * psutil
 
 ## Manual
